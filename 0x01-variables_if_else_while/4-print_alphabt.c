@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>i
 /**
  * main - print if the number is postive, zero, or negative
  *
@@ -16,6 +16,6 @@ if (ch != 'e' && ch != 'q')
 	putchar(ch);
 }
 }
-putchar('\n');\
+putchar('\n');
 return (0);
 }
